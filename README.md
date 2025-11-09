@@ -26,9 +26,11 @@ This website allows users to browse featured PlayStation games, view detailed tr
 
 ## How to View
 
--Go to settings
--Under Code and Automation, look for "pages"
--Right at the top of the page will be my link to view the site!
+- Go to settings
+- Under Code and Automation, look for "pages"
+- Right at the top of the page will be my link to view the site!
+
+
 ## Author
 Created by Aditya Chunduru as a Signature Assignment project for academic purposes.
 
